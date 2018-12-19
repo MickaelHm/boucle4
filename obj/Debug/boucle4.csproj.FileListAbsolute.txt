@@ -1,0 +1,6 @@
+C:\Users\Moi\source\repos\Boucle\boucle4\boucle4\obj\Debug\boucle4.csproj.CoreCompileInputs.cache
+C:\Users\Moi\source\repos\Boucle\boucle4\boucle4\bin\Debug\boucle4.exe.config
+C:\Users\Moi\source\repos\Boucle\boucle4\boucle4\bin\Debug\boucle4.exe
+C:\Users\Moi\source\repos\Boucle\boucle4\boucle4\bin\Debug\boucle4.pdb
+C:\Users\Moi\source\repos\Boucle\boucle4\boucle4\obj\Debug\boucle4.exe
+C:\Users\Moi\source\repos\Boucle\boucle4\boucle4\obj\Debug\boucle4.pdb
