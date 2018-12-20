@@ -11,7 +11,7 @@ namespace boucle4
         static void Main(string[] args)
         {
             int count;
-            for(count =10; count >=0/* possibilité de mettre un chiffre negatif*/; count--)
+            for(count =10; count >=0/* possibilité de mettre un chiffre negatif*/; count--)//Variable, condition, décrémentation
             {
                 Console.WriteLine(count);
             }
